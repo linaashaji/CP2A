@@ -35,5 +35,13 @@ https://drive.google.com/drive/folders/19l_20y83n_qACOH1GfX79jEqClKB6Pgl?usp=sha
 4- For using the dataset during training, use the data/dataloader.py file.
 
 
+<h1>
+<b>Authors</b>
+</h1>
+
+* [Lina Achaji](https://scholar.google.com/citations?user=RMO2zJAAAAAJ&hl=en)
+
+Please send an email to lina.achaji@stellantis.com or lina.achaji@inria.fr if there are any problems with using the data or the code.
+
 
 
